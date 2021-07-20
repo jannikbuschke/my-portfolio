@@ -64,15 +64,15 @@ export const projectsData = [
     url: '',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'focus.png',
-    title: 'gatsby-antd-docs (current)',
-    info: 'A documentation template build with gatsby',
-    info2: '',
-    url: '',
-    repo: '', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'focus.png',
+  //   title: 'gatsby-antd-docs (current)',
+  //   info: 'A documentation template build with gatsby',
+  //   info2: '',
+  //   url: '',
+  //   repo: '',
+  // },
   // {
   //   id: nanoid(),
   //   img: 'project.jpg',
