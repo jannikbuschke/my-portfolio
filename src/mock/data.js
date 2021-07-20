@@ -39,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'demo.png',
+    img: 'formik-antd.png',
     title: 'formik-antd (current)',
     info: 'A react integration library for formik and ant design with decent succcess',
     info2: '',
